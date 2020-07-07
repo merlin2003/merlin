@@ -1,7 +1,7 @@
 ul {
   list-style-type: none;
-  margin: 10;
-  padding: 10;
+  margin: 5;
+  padding: 5;
   overflow: hidden;
 }
 
@@ -11,6 +11,6 @@ li {
 
 li a {
   display: block;
-  padding: 14px;
+  padding: 18px;
   background-color: #dddddd;
 }
