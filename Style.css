@@ -1,7 +1,7 @@
 ul {
   list-style-type: none;
-  margin: 0;
-  padding: 0;
+  margin: 2px;
+  padding: 2px;
   overflow: hidden;
 }
 
@@ -15,6 +15,6 @@ a:hover {
 
 li a {
   display: block;
-  padding: 18px;
+  padding: 30px;
   background-color: #dddddd;
 }
